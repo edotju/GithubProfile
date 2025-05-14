@@ -2,7 +2,7 @@
 Soy un programador backend dominicano con una fuerte pasión por el desarrollo de software robusto, seguro y escalable. Me especializo en la construcción de APIs, diseño de bases de datos y lógica de negocio eficiente. Me encanta lo que no se ve, pero que hace que todo funcione.<br><br>Me considero una persona curiosa, autodidacta y con mentalidad de crecimiento. Siempre estoy aprendiendo nuevas tecnologías, patrones de diseño y mejores prácticas para entregar código limpio y mantenible.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jxn1or_14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manuelpolanco2510@gmail.com) 
 
 # 💻 Desarrollador Backend
